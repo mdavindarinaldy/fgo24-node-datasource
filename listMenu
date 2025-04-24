@@ -1,4 +1,4 @@
-[
+{
   "foods": [
    { "type": "Nasi Goreng", "price": 17000 }, 
    { "type": "Mie Goreng", "price": 10000 }, 
@@ -27,4 +27,4 @@
    { "type": "Tiramisu Cake", "price": 24000},
    { "type": "Panna Cota", "price": 17000}
   ]
-]
+}
