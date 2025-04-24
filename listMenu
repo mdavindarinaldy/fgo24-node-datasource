@@ -1,0 +1,30 @@
+{
+  "foods": [
+   { type: "Nasi Goreng", price: 17000 }, 
+   { type: "Mie Goreng", price: 10000 }, 
+   { type: "Seblak", price: 15000 }, 
+   { type: "Bakso", price: 20000 }, 
+   { type: "Nasi Uduk", price: 11000 }
+  ],
+  "drinks": [
+   { type: "Es Teh", price: 3000 }, 
+   { type: "Es Jeruk", price: 5000 }, 
+   { type: "Es Teh Tarik", price: 7000 }, 
+   { type: "Es Kelapa Muda", price: 10000 }, 
+   { type: "Kopi", price: 5000 }
+  ],
+  "snacks": [
+   { type: "Kerupuk Udang", price: 4000 }, 
+   { type: "Pangsit Goreng", price: 5000 }, 
+   { type: "Bika Ambon", price: 5000 }, 
+   { type: "Lemper", price: 3500 }, 
+   { type: "Putu Ayu", price: 4500 } 
+  ],
+  "desserts": [
+   { type: "Strawberry Ice Cream", price: 7000},
+   { type: "Cheesecake", price: 22000},
+   { type: "Red Velvet Cake", price: 25000},
+   { type: "Tiramisu Cake", price: 24000},
+   { type: "Panna Cota", price: 17000}
+  ]
+}
