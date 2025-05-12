@@ -248,7 +248,7 @@
         "last": "Davis"
       },
       "transaction": "transfer",
-      "nominal":"100.000"
+      "nominal":"100.000",
       "phone": "017684 49788",
       "picture": {
         "large": "https://randomuser.me/api/portraits/women/16.jpg",
